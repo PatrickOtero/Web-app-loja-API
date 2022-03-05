@@ -1,0 +1,1 @@
+module.exports = "cubos_market123"
